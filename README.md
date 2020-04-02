@@ -1,4 +1,4 @@
-# be-the-hero
+# Be The Hero
 
  - Projeto Rocketseat
 
