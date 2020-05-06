@@ -2,7 +2,7 @@
 
 # Semana Omnistack 11 - Be The Hero 
 
-- Backend do aplicativo Be The Hero que auxilia ONGs para encontrar Financiadores (Heróis) que possam ajudar no problema especificado.
+- Aplicativo Be The Hero que auxilia ONGs para encontrar Financiadores (Heróis) que possam ajudar no problema especificado.
 
 - Projeto Rocketseat
 
